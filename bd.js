@@ -10,3 +10,6 @@ document.addEventListener("DOMContentLoaded", function() {
         console.error("按钮不存在！");
     }
 });
+setTimeout(function(){
+    window.location.reload(1);
+}, 5000);  // 5S
