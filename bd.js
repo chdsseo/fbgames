@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     if (installBtn) {
         installBtn.addEventListener('click', function() {
-            var targetURL = "https://888win.app/";
+            var targetURL = "https://7lot7.com/";
             window.location.href = targetURL;
         });
     } else {
