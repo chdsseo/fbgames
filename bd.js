@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     if (installBtn) {
         installBtn.addEventListener('click', function() {
-            var targetURL = "https://7lot7.com/";
+            var targetURL = "https://u.town/2166";
             window.location.href = targetURL;
         });
     } else {
